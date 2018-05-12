@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/39461
     wikipedia: http://en.wikipedia.org/wiki/Hallam_Tennyson,_2nd_Baron_Tennyson
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/38420#Tennyson-and-His-Friends
 gutenberg_issued: '2011-12-27'
 gutenberg_type: Text
 identifiers:
