@@ -1,0 +1,28 @@
+_repo: Tennyson-and-His-Friends_38420
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 38420-h/images/cover.jpg
+creator:
+  editor:
+    agent_name: Tennyson, Hallam Tennyson, Baron
+    birthdate: 1852
+    deathdate: 1928
+    gutenberg_agent_id: '39461'
+    url: http://www.gutenberg.org/2009/agents/39461
+    wikipedia: http://en.wikipedia.org/wiki/Hallam_Tennyson,_2nd_Baron_Tennyson
+description: ''
+gutenberg_issued: '2011-12-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38420'
+  lccn: '12013610'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Tennyson, Alfred Tennyson, Baron, 1809-1892 -- Friends and associates'
+title: Tennyson and His Friends
+url: http://www.gutenberg.org/ebooks/38420
